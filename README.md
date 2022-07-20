@@ -21,7 +21,7 @@
 
   <p align="center">
     Muslim . Developer and science teacher. He loves science, culture, programming and snowboarding, but we don't have snow. Ummm and chicken shawarma,       remember shawarma :)
-    <br />
+    <br /><br />
     <a href="https://github.com/AhmadMuhammad2611"><strong>Explore My Github »</strong></a>
   </p>
 </div>
