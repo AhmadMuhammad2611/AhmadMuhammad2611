@@ -54,7 +54,9 @@
 [![LinkedIn][LinkedIn.com]][LinkedIn-url]
 [![Github][Github.com]][Github-url]
 [![WhatsApp][WhatsApp.com]][WhatsApp-url]
-
+[![Gmail][Gmail.com]][Gmail-url]
+<br />
+<a href="https://mail.google.com/mail/"><strong>ahmadnaguib2611@gmail.com</strong></a> <br /><br />
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
@@ -102,7 +104,7 @@ You can click the Preview link to take a look at your changes.
 [Github.com]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 [WhatsApp-url]: https://api.whatsapp.com/send?phone=%2B201123584210&text=Hi%2C%20Ahmad%0Ait%27s%20nice%20to%20communicate%20with%20you
 [WhatsApp.com]: https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-[Gmail-url]: https://mail.google.com/mail/?view=cm&source=mailto&to=ahmadnaguib2611@gmail.com&su=Saying%20Hi&body=Hi%2C%20Ahmad%0Ait%27s%20nice%20to%20communicate%20with%20you
+[Gmail-url]: https://mail.google.com/mail/?view=cm&source=mailto&to=ahmadnaguib2611@gmail.com
 [Gmail.com]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 [Windows-url]: https://github.com/AhmadMuhammad2611
