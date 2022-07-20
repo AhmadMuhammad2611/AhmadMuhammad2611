@@ -6,8 +6,12 @@
 [![Django][Django.com]][Django-url]
 [![PostgreSQL][PostgreSQL.com]][PostgreSQL-url]
 [![SQLite][SQLite.com]][SQLite-url]
-[![Windows][Windows.com]][Windows-url]
-[![Ubuntu][Ubuntu.com]][Ubuntu-url]
+
+[![FaceBook][FaceBook.com]][FaceBook-url]
+[![Twitter][Twitter.com]][Twitter-url]
+[![LinkdIn][LinkdIn.com]][LinkdIn-url]
+[![Github][Github.com]][Github-url]
+[![WhatsApp][WhatsApp.com]][WhatsApp-url]
 
 - 👋 Hi, I’m @AhmadMuhammad2611
 -  I’m django developer
@@ -35,6 +39,18 @@ You can click the Preview link to take a look at your changes.
 [PostgreSQL.com]: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 [SQLite-url]: https://www.postgresql.org
 [SQLite.com]: https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
+
+[FaceBook-url]: https://www.facebook.com/ahmadnaguib2611
+[FaceBook.com]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+[Twitter-url]: https://www.twitter.com/ahmadnaguib71
+[Twitter.com]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+[LinkedIn-url]: https://www.linkdin.com
+[LinkedIn.com]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[Github-url]: https://www.github.com/AhmadMuhammad2611
+[Github.com]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[WhatsApp-url]: https://api.whatsapp.com/send?phone=%2B201123584210&text=Hi%2C%20Ahmad%0Ait%27s%20nice%20to%20communicate%20with%20you
+[WhatsApp.com]: https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+
 [Windows-url]: https://github.com/AhmadMuhammad2611
 [Windows.com]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 [Ubuntu-url]: https://github.com/AhmadMuhammad2611
