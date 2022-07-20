@@ -21,11 +21,12 @@
 
   <h4 align="center">
     Muslim . Developer and Science Teacher, loves science, culture, programming and snowboarding, but we don't have snow. Ummm and chicken shawarma,         remember shawarma :)
-    <br /><br /><br />
+    <br /><br />
     <a href="https://github.com/AhmadMuhammad2611"><strong>Explore My Github »</strong></a>
   </h4>
 </div>
 
+<br />
 
 [![Palestine][palestine]](https://example.com)
 
