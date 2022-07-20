@@ -55,8 +55,8 @@
 [![Github][Github.com]][Github-url]
 [![WhatsApp][WhatsApp.com]][WhatsApp-url]
 [![Gmail][Gmail.com]][Gmail-url]
-<br />
-<a href="https://mail.google.com/mail/"><strong>ahmadnaguib2611@gmail.com</strong></a> <br /><br />
+<br /><br />
+<a href="https://mail.google.com"><strong>ahmadnaguib2611@gmail.com</strong></a> <br /><br />
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
