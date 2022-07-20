@@ -105,7 +105,7 @@ You can click the Preview link to take a look at your changes.
 [WhatsApp-url]: https://api.whatsapp.com/send?phone=%2B201123584210&text=Hi%2C%20Ahmad%0Ait%27s%20nice%20to%20communicate%20with%20you
 [WhatsApp.com]: https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 [Gmail-url]: https://mail.google.com/mail/?view=cm&source=mailto&to=ahmadnaguib2611@gmail.com
-[Gmail.com]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=ahmadnaguib2611@gmail.com&logoColor=white
+[Gmail.com]: https://img.shields.io/badge/ahmadnaguib2611@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 [Windows-url]: https://github.com/AhmadMuhammad2611
 [Windows.com]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
