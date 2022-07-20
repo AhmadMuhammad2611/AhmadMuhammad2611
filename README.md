@@ -63,13 +63,13 @@ Use the `BLANK_README.md` to get started.
 
 Use this space to list resources you find helpful and would like to give acknowledgements to . I've included a few of my favorites to start with it !
 
-<a href="https://www.zad-academy.com/"><strong>ZAD | أكاديمية زاد »</strong></a> <br />
-<a href="https://www.binaamanhaji.com/"><strong>BinaaManhaji | البناء المنهجي »</strong></a>
-<a href="https://almohawer.org/"><strong>Almohawer | أكاديمية صناعة المحاور »</strong></a>
+<a href="https://www.zad-academy.com/"><strong>ZAD | أكاديمية زاد »</strong></a> <br /><br />
+<a href="https://www.binaamanhaji.com/"><strong>BinaaManhaji | البناء المنهجي »</strong></a> <br /><br />
+<a href="https://almohawer.org/"><strong>Almohawer | أكاديمية صناعة المحاور »</strong></a> <br /><br /><br />
 
-<a href="https://elzero.org/"><strong>Elzero Web School »</strong></a>
-<a href="https://maharatech.gov.eg/"><strong>MaharaTech »</strong></a>
-<a href="https://www.iti.gov.eg/iti/home"><strong>ITI »</strong></a>
+<a href="https://elzero.org/"><strong>Elzero Web School »</strong></a> <br /><br />
+<a href="https://maharatech.gov.eg/"><strong>MaharaTech »</strong></a> <br /><br />
+<a href="https://www.iti.gov.eg/iti/home"><strong>ITI »</strong></a> <br /><br />
 
 <!---
 AhmadMuhammad2611/AhmadMuhammad2611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
