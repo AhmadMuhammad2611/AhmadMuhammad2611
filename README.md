@@ -56,7 +56,7 @@
 [![WhatsApp][WhatsApp.com]][WhatsApp-url]
 [![Gmail][Gmail.com]][Gmail-url]
 <br /><br />
-<a href="https://mail.google.com"><strong>ahmadnaguib2611@gmail.com</strong></a> <br /><br />
+<a href="https://mail.google.com/mail/?to=ahmadnaguib2611@gmail.com"><strong>ahmadnaguib2611@gmail.com</strong></a> <br /><br />
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
