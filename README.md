@@ -20,7 +20,7 @@
   <h3 align="center">Ahmad Naguib</h3>
 
   <h4 align="center">
-    Muslim . Developer and science teacher. He loves science, culture, programming and snowboarding, but we don't have snow. Ummm and chicken shawarma,       remember shawarma :)
+    Muslim . Developer and Science Teacher, loves science, culture, programming and snowboarding, but we don't have snow. Ummm and chicken shawarma,         remember shawarma :)
     <br /><br /><br />
     <a href="https://github.com/AhmadMuhammad2611"><strong>Explore My Github »</strong></a>
   </h4>
@@ -51,11 +51,11 @@ Use the `BLANK_README.md` to get started.
 <!-- CONTACT -->
 ## Contact
 
-[![FaceBook][FaceBook.com]][FaceBook-url] <br />
-[![Twitter][Twitter.com]][Twitter-url] <br />
-[![LinkedIn][LinkedIn.com]][LinkedIn-url] <br />
-[![Github][Github.com]][Github-url] <br />
-[![WhatsApp][WhatsApp.com]][WhatsApp-url] <br />
+[![FaceBook][FaceBook.com]][FaceBook-url]
+[![Twitter][Twitter.com]][Twitter-url]
+[![LinkedIn][LinkedIn.com]][LinkedIn-url]
+[![Github][Github.com]][Github-url]
+[![WhatsApp][WhatsApp.com]][WhatsApp-url]
 
 
 <!-- ACKNOWLEDGMENTS -->
@@ -63,7 +63,13 @@ Use the `BLANK_README.md` to get started.
 
 Use this space to list resources you find helpful and would like to give acknowledgements to . I've included a few of my favorites to start with it !
 
+<a href="https://www.zad-academy.com/"><strong>ZAD | أكاديمية زاد »</strong></a>
+<a href="https://www.binaamanhaji.com/"><strong>BinaaManhaji | البناء المنهجي »</strong></a>
+<a href="https://almohawer.org/"><strong>Almohawer | أكاديمية صناعة المحاور »</strong></a>
 
+<a href="https://elzero.org/"><strong>Elzero Web School »</strong></a>
+<a href="https://maharatech.gov.eg/"><strong>MaharaTech »</strong></a>
+<a href="https://www.iti.gov.eg/iti/home"><strong>ITI »</strong></a>
 
 <!---
 AhmadMuhammad2611/AhmadMuhammad2611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
