@@ -1,3 +1,9 @@
+[![FaceBook][FaceBook.com]][FaceBook-url]<br />
+[![Twitter][Twitter.com]][Twitter-url]
+[![LinkedIn][LinkedIn.com]][LinkedIn-url]
+[![Github][Github.com]][Github-url]
+[![WhatsApp][WhatsApp.com]][WhatsApp-url]
+
 [![HTML][HTML.com]][HTML-url]
 [![CSS][CSS.com]][CSS-url]
 [![JavaScript][JavaScript.com]][JavaScript-url]
@@ -23,7 +29,7 @@
     <br />
     <a href="https://github.com/AhmadMuhammad2611"><strong>Explore My Github »</strong></a>
     <br />
-
+    .
   </p>
 </div>
 
