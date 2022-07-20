@@ -33,15 +33,15 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-* <strong>knowledgable in Web UI development technologies including</strong> [![HTML][HTML.com]][HTML-url]
-                                                            [![CSS][CSS.com]][CSS-url]
-                                                            [![JavaScript][JavaScript.com]][JavaScript-url]
-                                                            [![Bootstrap][Bootstrap.com]][Bootstrap-url] .
-* <strong>knowledgable in Backend technologies including</strong> [![Python][Python.com]][Python-url]
-                                                [![Django][Django.com]][Django-url]
-                                                [![PostgreSQL][PostgreSQL.com]][PostgreSQL-url]
-                                                [![SQLite][SQLite.com]][SQLite-url] .
-* <strong>knowledgable in Linux & Shell Scripting</strong> [![Ubuntu][Ubuntu.com]][Ubuntu-url] .
+* [![HTML][HTML.com]][HTML-url]
+  [![CSS][CSS.com]][CSS-url]
+  [![JavaScript][JavaScript.com]][JavaScript-url]
+  [![Bootstrap][Bootstrap.com]][Bootstrap-url] .
+* [![Python][Python.com]][Python-url]
+  [![Django][Django.com]][Django-url]
+  [![PostgreSQL][PostgreSQL.com]][PostgreSQL-url]
+  [![SQLite][SQLite.com]][SQLite-url] .
+* [![Ubuntu][Ubuntu.com]][Ubuntu-url] .
 
 
 <!-- CONTACT -->
