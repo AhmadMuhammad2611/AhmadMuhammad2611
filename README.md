@@ -6,6 +6,8 @@
 [![Django][Django.com]][Django-url]
 [![PostgreSQL][PostgreSQL.com]][PostgreSQL-url]
 [![SQLite][SQLite.com]][SQLite-url]
+[![Windows][Windows.com]][Windows-url]
+[![Ubuntu][Ubuntu.com]][Ubuntu-url]
 
 - 👋 Hi, I’m @AhmadMuhammad2611
 -  I’m django developer
@@ -33,3 +35,7 @@ You can click the Preview link to take a look at your changes.
 [PostgreSQL.com]: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 [SQLite-url]: https://www.postgresql.org
 [SQLite.com]: https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
+[Windows-url]: 
+[Windows.com]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+[Ubuntu-url]: 
+[Ubuntu.com]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
