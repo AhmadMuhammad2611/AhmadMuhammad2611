@@ -31,8 +31,8 @@
 <!-- ABOUT -->
 ## About
 
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com)
- -->
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
+
 * <strong>knowledgable in Web UI development technologies including</strong> [![HTML][HTML.com]][HTML-url]
                                                             [![CSS][CSS.com]][CSS-url]
                                                             [![JavaScript][JavaScript.com]][JavaScript-url]
