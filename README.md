@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
   
 [![FaceBook][FaceBook.com]][FaceBook-url]
 [![Twitter][Twitter.com]][Twitter-url]
@@ -6,7 +6,7 @@
 [![Github][Github.com]][Github-url]
 [![WhatsApp][WhatsApp.com]][WhatsApp-url]
   
-</p>
+</div>
 
 <!-- PROJECT LOGO -->
 <br />
