@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/AhmadMuhammad2611">
+  <a href="profile_photo.jpeg">
     <img src="" alt="Logo" width="80" height="80">
   </a>
 
@@ -27,11 +27,11 @@
 </div>
 
 
+[![Palestine][palestine]](https://example.com)
+
 
 <!-- ABOUT -->
 ## Skills
-
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 * [![HTML][HTML.com]][HTML-url]
   [![CSS][CSS.com]][CSS-url]
@@ -71,7 +71,7 @@ AhmadMuhammad2611/AhmadMuhammad2611 is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-[product-screenshot]: images/screenshot.png
+[palestine]: palestine.jpeg
 
 [HTML-url]: https://html.com
 [HTML.com]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
