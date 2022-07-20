@@ -15,15 +15,15 @@
     <img src="" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Ahmad Muhammad</h3>
+  <h3 align="center">Ahmad Naguib</h3>
 
   <p align="center">
-    Hi, I’m @AhmadMuhammad2611
+    Muslim . Developer and science teacher. He loves science, culture, programming and snowboarding, but we don't have snow. Ummm and chicken shawarma,       remember shawarma :)
+    
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/AhmadMuhammad2611"><strong>Explore My Github »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+
   </p>
 </div>
 
@@ -32,12 +32,12 @@
 <!-- ABOUT -->
 ## About
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com)
+ -->
+* knowledgable in Web UI development technologies including HTML,CSS,Bootstrap,Javascript.
+* knowledgable in Backend technologies including Python,Django & postgresql.
+* knowledgable in frontend technologies including Angular.
+* knowledgable in Linux & Shell Scripting
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
@@ -57,13 +57,9 @@ Use the `BLANK_README.md` to get started.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Use this space to list resources you find helpful and would like to give acknowledgements to . I've included a few of my favorites to start with it !
 
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [README Template](https://github.com/othneildrew/Best-README-Template)
+
 
 <!---
 AhmadMuhammad2611/AhmadMuhammad2611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
