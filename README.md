@@ -9,7 +9,7 @@
 
 [![FaceBook][FaceBook.com]][FaceBook-url]
 [![Twitter][Twitter.com]][Twitter-url]
-[![LinkdIn][LinkdIn.com]][LinkdIn-url]
+[![LinkedIn][LinkedIn.com]][LinkedIn-url]
 [![Github][Github.com]][Github-url]
 [![WhatsApp][WhatsApp.com]][WhatsApp-url]
 
@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 [FaceBook.com]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 [Twitter-url]: https://www.twitter.com/ahmadnaguib71
 [Twitter.com]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-[LinkedIn-url]: https://www.linkdin.com
+[LinkedIn-url]: https://www.linkedin.com
 [LinkedIn.com]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [Github-url]: https://www.github.com/AhmadMuhammad2611
 [Github.com]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
