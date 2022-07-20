@@ -7,12 +7,6 @@
 [![PostgreSQL][PostgreSQL.com]][PostgreSQL-url]
 [![SQLite][SQLite.com]][SQLite-url]
 
-[![FaceBook][FaceBook.com]][FaceBook-url]
-[![Twitter][Twitter.com]][Twitter-url]
-[![LinkedIn][LinkedIn.com]][LinkedIn-url]
-[![Github][Github.com]][Github-url]
-[![WhatsApp][WhatsApp.com]][WhatsApp-url]
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -35,12 +29,10 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- ABOUT -->
+## About
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
@@ -50,6 +42,32 @@ Here's why:
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
 Use the `BLANK_README.md` to get started.
+
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
+[![FaceBook][FaceBook.com]][FaceBook-url]
+[![Twitter][Twitter.com]][Twitter-url]
+[![LinkedIn][LinkedIn.com]][LinkedIn-url]
+[![Github][Github.com]][Github-url]
+[![WhatsApp][WhatsApp.com]][WhatsApp-url]
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Img Shields](https://shields.io)
+* [GitHub Pages](https://pages.github.com)
+* [Font Awesome](https://fontawesome.com)
+* [README Template](https://github.com/othneildrew/Best-README-Template)
 
 <!---
 AhmadMuhammad2611/AhmadMuhammad2611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
