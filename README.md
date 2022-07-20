@@ -1,9 +1,10 @@
+<div align="center">
 [![FaceBook][FaceBook.com]][FaceBook-url]
 [![Twitter][Twitter.com]][Twitter-url]
 [![LinkedIn][LinkedIn.com]][LinkedIn-url]
 [![Github][Github.com]][Github-url]
 [![WhatsApp][WhatsApp.com]][WhatsApp-url]
-
+</div>
 
 <!-- PROJECT LOGO -->
 <br />
