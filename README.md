@@ -19,11 +19,11 @@
 
   <h3 align="center">Ahmad Naguib</h3>
 
-  <p align="center">
+  <h4 align="center">
     Muslim . Developer and science teacher. He loves science, culture, programming and snowboarding, but we don't have snow. Ummm and chicken shawarma,       remember shawarma :)
-    <br /><br />
+    <br /><br /><br />
     <a href="https://github.com/AhmadMuhammad2611"><strong>Explore My Github »</strong></a>
-  </p>
+  </h4>
 </div>
 
 
