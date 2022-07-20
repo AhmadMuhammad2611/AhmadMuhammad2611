@@ -63,8 +63,8 @@ Use this space to list resources you find helpful and would like to give acknowl
 <a href="https://www.binaamanhaji.com/"><strong>BinaaManhaji | البناء المنهجي »</strong></a> <br /><br />
 <a href="https://almohawer.org/"><strong>Almohawer | أكاديمية صناعة المحاور »</strong></a> <br /><br />
 <a href="https://elzero.org/"><strong>Elzero Web School »</strong></a> <br /><br />
-<a href="https://maharatech.gov.eg/"><strong>MaharaTech »</strong></a> <br /><br />
 <a href="https://www.iti.gov.eg/iti/home"><strong>ITI »</strong></a> <br /><br />
+<a href="https://maharatech.gov.eg/"><strong>MaharaTech »</strong></a> <br /><br />
 
 <!---
 AhmadMuhammad2611/AhmadMuhammad2611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
