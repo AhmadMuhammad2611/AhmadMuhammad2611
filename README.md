@@ -33,15 +33,15 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com)
  -->
-* knowledgable in Web UI development technologies including [![HTML][HTML.com]][HTML-url]
+* <strong>knowledgable in Web UI development technologies including</strong> [![HTML][HTML.com]][HTML-url]
                                                             [![CSS][CSS.com]][CSS-url]
                                                             [![JavaScript][JavaScript.com]][JavaScript-url]
                                                             [![Bootstrap][Bootstrap.com]][Bootstrap-url] .
-* knowledgable in Backend technologies including [![Python][Python.com]][Python-url]
+* <strong>knowledgable in Backend technologies including</strong> [![Python][Python.com]][Python-url]
                                                 [![Django][Django.com]][Django-url]
                                                 [![PostgreSQL][PostgreSQL.com]][PostgreSQL-url]
                                                 [![SQLite][SQLite.com]][SQLite-url] .
-* knowledgable in Linux & Shell Scripting [![Ubuntu][Ubuntu.com]][Ubuntu-url] .
+* <strong>knowledgable in Linux & Shell Scripting</strong> [![Ubuntu][Ubuntu.com]][Ubuntu-url] .
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
