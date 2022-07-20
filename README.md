@@ -63,7 +63,7 @@ Use the `BLANK_README.md` to get started.
 
 Use this space to list resources you find helpful and would like to give acknowledgements to . I've included a few of my favorites to start with it !
 
-<a href="https://www.zad-academy.com/"><strong>ZAD | أكاديمية زاد »</strong></a>
+<a href="https://www.zad-academy.com/"><strong>ZAD | أكاديمية زاد »</strong></a> <br />
 <a href="https://www.binaamanhaji.com/"><strong>BinaaManhaji | البناء المنهجي »</strong></a>
 <a href="https://almohawer.org/"><strong>Almohawer | أكاديمية صناعة المحاور »</strong></a>
 
