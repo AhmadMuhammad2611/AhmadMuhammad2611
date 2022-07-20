@@ -1,17 +1,8 @@
-[![FaceBook][FaceBook.com]][FaceBook-url]<br />
+[![FaceBook][FaceBook.com]][FaceBook-url]
 [![Twitter][Twitter.com]][Twitter-url]
 [![LinkedIn][LinkedIn.com]][LinkedIn-url]
 [![Github][Github.com]][Github-url]
 [![WhatsApp][WhatsApp.com]][WhatsApp-url]
-
-[![HTML][HTML.com]][HTML-url]
-[![CSS][CSS.com]][CSS-url]
-[![JavaScript][JavaScript.com]][JavaScript-url]
-[![Bootstrap][Bootstrap.com]][Bootstrap-url]
-[![Python][Python.com]][Python-url]
-[![Django][Django.com]][Django-url]
-[![PostgreSQL][PostgreSQL.com]][PostgreSQL-url]
-[![SQLite][SQLite.com]][SQLite-url]
 
 
 <!-- PROJECT LOGO -->
@@ -25,11 +16,8 @@
 
   <p align="center">
     Muslim . Developer and science teacher. He loves science, culture, programming and snowboarding, but we don't have snow. Ummm and chicken shawarma,       remember shawarma :)
-    
     <br />
     <a href="https://github.com/AhmadMuhammad2611"><strong>Explore My Github »</strong></a>
-    <br />
-    .
   </p>
 </div>
 
@@ -40,10 +28,15 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com)
  -->
-* knowledgable in Web UI development technologies including HTML,CSS,Bootstrap,Javascript.
-* knowledgable in Backend technologies including Python,Django & postgresql.
-* knowledgable in frontend technologies including Angular.
-* knowledgable in Linux & Shell Scripting
+* knowledgable in Web UI development technologies including [![HTML][HTML.com]][HTML-url]
+                                                            [![CSS][CSS.com]][CSS-url]
+                                                            [![JavaScript][JavaScript.com]][JavaScript-url]
+                                                            [![Bootstrap][Bootstrap.com]][Bootstrap-url] .
+* knowledgable in Backend technologies including [![Python][Python.com]][Python-url]
+                                                [![Django][Django.com]][Django-url]
+                                                [![PostgreSQL][PostgreSQL.com]][PostgreSQL-url]
+                                                [![SQLite][SQLite.com]][SQLite-url] .
+* knowledgable in Linux & Shell Scripting [![Ubuntu][Ubuntu.com]][Ubuntu-url] .
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
@@ -53,11 +46,11 @@ Use the `BLANK_README.md` to get started.
 <!-- CONTACT -->
 ## Contact
 
-[![FaceBook][FaceBook.com]][FaceBook-url]<br />
-[![Twitter][Twitter.com]][Twitter-url]
-[![LinkedIn][LinkedIn.com]][LinkedIn-url]
-[![Github][Github.com]][Github-url]
-[![WhatsApp][WhatsApp.com]][WhatsApp-url]
+[![FaceBook][FaceBook.com]][FaceBook-url] <br />
+[![Twitter][Twitter.com]][Twitter-url] <br />
+[![LinkedIn][LinkedIn.com]][LinkedIn-url] <br />
+[![Github][Github.com]][Github-url] <br />
+[![WhatsApp][WhatsApp.com]][WhatsApp-url] <br />
 
 
 <!-- ACKNOWLEDGMENTS -->
