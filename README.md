@@ -29,7 +29,7 @@
 
 
 <!-- ABOUT -->
-## About
+## Skills
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
