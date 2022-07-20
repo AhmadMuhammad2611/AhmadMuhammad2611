@@ -43,10 +43,6 @@
                                                 [![SQLite][SQLite.com]][SQLite-url] .
 * <strong>knowledgable in Linux & Shell Scripting</strong> [![Ubuntu][Ubuntu.com]][Ubuntu-url] .
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
 
 <!-- CONTACT -->
 ## Contact
@@ -62,11 +58,10 @@ Use the `BLANK_README.md` to get started.
 ## Acknowledgments
 
 Use this space to list resources you find helpful and would like to give acknowledgements to . I've included a few of my favorites to start with it !
-<br />
-<a href="https://www.zad-academy.com/"><strong>ZAD | أكاديمية زاد »</strong></a> <br />
+<br /><br />
+<a href="https://www.zad-academy.com/"><strong>ZAD | أكاديمية زاد »</strong></a> <br /><br />
 <a href="https://www.binaamanhaji.com/"><strong>BinaaManhaji | البناء المنهجي »</strong></a> <br /><br />
 <a href="https://almohawer.org/"><strong>Almohawer | أكاديمية صناعة المحاور »</strong></a> <br /><br />
-
 <a href="https://elzero.org/"><strong>Elzero Web School »</strong></a> <br /><br />
 <a href="https://maharatech.gov.eg/"><strong>MaharaTech »</strong></a> <br /><br />
 <a href="https://www.iti.gov.eg/iti/home"><strong>ITI »</strong></a> <br /><br />
