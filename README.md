@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="http://example.com">
-    <img src="profile_photo.jpeg" alt="Logo" width="200" height="200" style="border-radius:50%">
+    <img src="profile_photo.jpeg" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Ahmad Naguib</h3>
