@@ -10,11 +10,11 @@
   
 </div>
 
-<!-- PROJECT LOGO -->
+<!-- PROFILE PHOTO -->
 <br />
 <div align="center">
-  <a href="profile_photo.jpeg">
-    <img src="" alt="Logo" width="80" height="80">
+  <a href="http://example.com">
+    <img src="profile_photo.jpeg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Ahmad Naguib</h3>
