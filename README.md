@@ -62,10 +62,10 @@ Use the `BLANK_README.md` to get started.
 ## Acknowledgments
 
 Use this space to list resources you find helpful and would like to give acknowledgements to . I've included a few of my favorites to start with it !
-
-<a href="https://www.zad-academy.com/"><strong>ZAD | أكاديمية زاد »</strong></a> <br /><br />
+<br />
+<a href="https://www.zad-academy.com/"><strong>ZAD | أكاديمية زاد »</strong></a> <br />
 <a href="https://www.binaamanhaji.com/"><strong>BinaaManhaji | البناء المنهجي »</strong></a> <br /><br />
-<a href="https://almohawer.org/"><strong>Almohawer | أكاديمية صناعة المحاور »</strong></a> <br /><br /><br />
+<a href="https://almohawer.org/"><strong>Almohawer | أكاديمية صناعة المحاور »</strong></a> <br /><br />
 
 <a href="https://elzero.org/"><strong>Elzero Web School »</strong></a> <br /><br />
 <a href="https://maharatech.gov.eg/"><strong>MaharaTech »</strong></a> <br /><br />
