@@ -58,8 +58,8 @@
 <br />
 <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=ahmadnaguib2611@gmail.com"><strong>ahmadnaguib2611@gmail.com</strong></a> <br /><br />
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
 
 Use this space to list resources you find helpful and would like to give acknowledgements to . I've included a few of my favorites to start with it !
 <br /><br />
